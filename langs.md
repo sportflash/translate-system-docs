@@ -8,8 +8,8 @@
 | 简体中文 | zh-CN | zh-rCN | zh-Hans |
 | 繁体中文 | zh-TW | zh-rTW | zh-Hant |
 | 西班牙语 | es | | |
-| 葡萄牙语(巴西) | pt-BR | | |
-| 葡萄牙语(葡萄牙) | pt-PT | | |
+| 葡萄牙语(巴西) | pt-BR | pt-rBR | pt|
+| 葡萄牙语(葡萄牙) | pt-PT | pt-rPT | |
 | 印地语 | hi | | |
 | 阿拉伯语 | ar | | |
 | 德语 | de | | |
